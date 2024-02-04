@@ -41,13 +41,13 @@ short_description = "An open source neuroevolution framework for Python."
 # The compatible release operator (`~=`) is used to match any candidate version
 # that is expected to be compatible with the specified version.
 REQUIRED_PACKAGES = [
-    "Columnar ~= 1.3.1",
-    "gym ~= 0.17.3",
-    "matplotlib ~= 3.3.3",
-    "networkx ~= 2.5",
-    "numpy ~= 1.19.5",
-    "ray ~= 1.1.0",
-    "tensorflow ~= 2.4.0",
+    "Columnar ~= 1.4.1",
+    "gym ~= 0.26.2",
+    "matplotlib ~= 3.8.2",
+    "networkx ~= 3.2.1",
+    "numpy ~= 1.26.3",
+    "ray ~= 2.9.1",
+    "tensorflow ~= 2.15.0.post1"
 ]
 
 # Packages which are only needed for testing code.
